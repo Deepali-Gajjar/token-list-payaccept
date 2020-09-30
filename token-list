@@ -16,7 +16,7 @@
           "tokens": [
 	    {
 		"name": "NEXT.exchange",
-                "address": "0x235877CcDea88415607BBee916BBd9093b5f122C",
+                "address": "0x0e2EF5fF165892980FB8B9f281afB330dE72DA4C",
                 "symbol": "NEXT",
                 "decimals": 18,
                 "chainId": 3,
@@ -24,7 +24,7 @@
 	    },
 	    {
                 "name": "PayAccept",
-                "address": "0x17A4AC8efDC8Cf0EE5785F59387E51A0ed752479",
+                "address": "0x7ef7dbd76a26c1f03eceba74b4082e88eb94e6eb",
                 "symbol": "PAYT",
                 "decimals": 18,
                 "chainId": 3,
