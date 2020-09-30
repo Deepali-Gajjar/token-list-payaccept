@@ -16,7 +16,7 @@
           "tokens": [
 	    {
 		"name": "NEXT.exchange",
-                "address": "0xf744DF8f9b67f6eb263b35B30BC953b17e4C2Fbc",
+                "address": "0x24ba2f80592418507852B76480753E9BF92C7D2A",
                 "symbol": "NEXT",
                 "decimals": 18,
                 "chainId": 3,
